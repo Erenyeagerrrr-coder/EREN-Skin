@@ -4,10 +4,10 @@
 
 return {
     ["VIP"] = {
-        type = "VIP",
+        type = "EREN",
         expiry = "2027-12-31",
-        valid = false,
-        max_devices = 20,
+        valid = true,
+        max_devices = 10,
         SLOT = "1"
     },
     ["DEMO123"] = {
