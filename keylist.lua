@@ -7,7 +7,7 @@ return {
         type = "DEMO",
         expiry = "2026-10-10",
         valid = true,
-        max_devices = 10,
+        max_devices = 12,
         SLOT = "1"
     },
     ["DEMO123"] = {
