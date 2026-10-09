@@ -20,7 +20,7 @@ return {
     ["EN"] = {
         type = "VIP",
         expiry = "2027-01-01",
-        valid = true,
+        valid = false,
         max_devices = 1,
         SLOT = "3"
     },
