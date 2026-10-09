@@ -10,6 +10,14 @@ return {
         max_devices = 50,
         SLOT = "1"
     },
+
+   ["THUG"] = {
+        type = "DEMO",
+        expiry = "2027-10-10",
+        valid = true,
+        max_devices = 10,
+        SLOT = "4"
+    },
     ["DEMO123"] = {
         type = "DEMO",
         expiry = "2026-08-01",
