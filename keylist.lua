@@ -17,9 +17,9 @@ return {
         max_devices = 5,
         SLOT = "2"
     },
-    ["SINGLE_USER"] = {
+    ["EN"] = {
         type = "VIP",
-        expiry = "2025-01-01",
+        expiry = "2027-01-01",
         valid = true,
         max_devices = 1,
         SLOT = "3"
