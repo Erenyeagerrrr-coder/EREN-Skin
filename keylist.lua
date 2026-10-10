@@ -6,7 +6,7 @@ return {
     ["EREN"] = {
         type = "DEMO",
         expiry = "2026-10-11",
-        valid = true,
+        valid = false,
         max_devices = 100,
         SLOT = "1"
     },
