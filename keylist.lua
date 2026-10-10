@@ -11,7 +11,7 @@ return {
         SLOT = "1"
     },
 
-["ERENV2"] = {
+["ERENV22"] = {
         type = "DEMO",
         expiry = "2026-10-11",
         valid = true,
