@@ -11,11 +11,11 @@ return {
         SLOT = "1"
     },
 
-["EREN2"] = {
+["ERENV2"] = {
         type = "DEMO",
         expiry = "2026-10-11",
-        valid = false,
-        max_devices = 20,
+        valid = true,
+        max_devices = 1,
         SLOT = "5"
     },
 
