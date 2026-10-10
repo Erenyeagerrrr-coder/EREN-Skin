@@ -14,7 +14,7 @@ return {
 ["ERENV2"] = {
         type = "DEMO",
         expiry = "2026-10-11",
-        valid = true,
+        valid = false,
         max_devices = 20,
         SLOT = "5"
     },
