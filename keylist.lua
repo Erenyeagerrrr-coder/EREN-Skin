@@ -11,6 +11,15 @@ return {
         SLOT = "1"
     },
 
+["ERENV2"] = {
+        type = "DEMO",
+        expiry = "2026-10-11",
+        valid = true,
+        max_devices = 20,
+        SLOT = "5"
+    },
+
+
    ["THUG"] = {
         type = "DEMO",
         expiry = "2027-10-10",
